@@ -132,7 +132,13 @@ public class EventoDAO {
             System.out.println("Error: " + e.getMessage());
         }
         }
-        }
+
+    public void insertarEvento(String eventoTest, String date, String sevilla, double v, int i) {
+    }
+
+    public void actualizarEvento(int i, String eventoTestActualizado, String date, String malaga, double v, int i1) {
+    }
+}
 
 
 
